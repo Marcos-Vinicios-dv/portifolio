@@ -20,7 +20,7 @@ const NavLinks = ({ page = 'Home', handleOnClickPage = null }) => {
         </li>
         <li>
           <NavLink
-            page={page === 'About' ? 1 : 0}
+            page={page === 'Sobre mim' ? 1 : 0}
             to="about"
             smooth={true}
             offset={-50}
@@ -28,7 +28,7 @@ const NavLinks = ({ page = 'Home', handleOnClickPage = null }) => {
             isDynamic={true}
             onClick={handleOnClickPage}
           >
-            Sobre min
+            Sobre mim
           </NavLink>
         </li>
         <li>

@@ -24,7 +24,7 @@ const Header = () => {
   useEffect(() => {
     window.addEventListener('scroll', () => {
       window.scrollY < 200 && setPage('Home');
-      window.scrollY > 200 && window.scrollY <= 800 && setPage('About');
+      window.scrollY > 200 && window.scrollY <= 800 && setPage('Sobre mim');
       window.scrollY > 800 && window.scrollY <= 1500 && setPage('Skills');
       window.scrollY > 1500 && window.scrollY <= 2000 && setPage('Projetos');
       window.scrollY > 2000 && setPage('Contato');

@@ -65,6 +65,9 @@ const HomeContainer = styled.div`
   @media (max-width: 768px) {
     flex-direction: column;
     align-items: center;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    height: auto;
     div {
       width: 100%;
       text-align: center;
@@ -72,12 +75,6 @@ const HomeContainer = styled.div`
 
     button {
       margin: 0 auto;
-    }
-  }
-
-  @media (max-width: 340px) {
-    span {
-      width: 100%;
     }
   }
 `;
@@ -121,8 +118,8 @@ const ImageContainer = styled.div`
 
   @media (max-width: 768px) {
     order: -1;
-    position: relative;
-    top: 8.5%;
+    /* position: relative; */
+    /* top: 8.5%; */
     margin-bottom: 16px;
   }
 `;
