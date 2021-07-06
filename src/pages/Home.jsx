@@ -118,8 +118,6 @@ const ImageContainer = styled.div`
 
   @media (max-width: 768px) {
     order: -1;
-    /* position: relative; */
-    /* top: 8.5%; */
     margin-bottom: 16px;
   }
 `;

@@ -22,17 +22,17 @@ const Sobre = () => {
           <div>
             <p>
               Sou estudante de TI no colégio Técnico de Limeira (COTIL), estou
-              no meu segundo e último ano de ensino do curso e mesmo sem o
-              finalizar irei me lançar no mercado de trabalho.
+              no meu segundo e último ano de ensino do curso e mesmo sem
+              finalizá-lo irei me lançar no mercado de trabalho.
             </p>
             <p>
               Apaixonado por Front-end decidi me especializar nessa área, porém
-              não irei me prender apenas ao front-end, tenho planos para no
-              futuro ser FullStack.
+              não irei me prender apenas ao front-end, tenho planos para
+              futuramente ser FullStack.
             </p>
             <p>
               Estou buscando meu primeiro emprego na área e espero fazer parte
-              de uma empresa em que e possa desenvolver minhas habilidades e
+              de uma empresa em que eu possa desenvolver minhas habilidades e
               conhecer ainda mais desse universo que é a programação.
             </p>
           </div>
