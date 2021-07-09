@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { darken } from 'polished';
+import { lighten } from 'polished';
 
 import linkedIn from '../assets/images/linkedIn.svg';
 import gitHub from '../assets/images/github.svg';
@@ -126,7 +126,7 @@ const IconButton = styled.button`
   width: 40px;
   height: 40px;
 
-  border: 1px solid #ef5252;
+  border: 1px solid #c72939;
   border-radius: 50%;
 
   background-color: rgba(0, 0, 0, 0.35);
@@ -137,7 +137,7 @@ const IconButton = styled.button`
 
   &:hover {
     border: none;
-    background-color: #ef5252;
+    background-color: #c72939;
   }
 `;
 
@@ -145,7 +145,7 @@ const DownloadButton = styled.button`
   width: 180px;
   height: 50px;
 
-  background-color: #ef5252;
+  background-color: #c72939;
 
   border: none;
   border-radius: 5px;
@@ -159,7 +159,7 @@ const DownloadButton = styled.button`
 
   &:hover {
     box-shadow: none;
-    background-color: ${darken(0.05, `#ef5252`)};
+    background-color: ${lighten(0.05, `#c72939`)};
   }
 
   @media (max-width: 768px) {

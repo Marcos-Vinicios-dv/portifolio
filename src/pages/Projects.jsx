@@ -70,12 +70,12 @@ const ProjectsContainer = styled.div`
   flex-direction: column;
   align-items: center;
 
-  background-color: #1f2234;
+  background-color: #12162e;
 `;
 
 const Title = styled.h1`
   margin: 56px 0 40px 115px;
-  border-bottom: 1px solid #ef5252;
+  border-bottom: 1px solid #c72939;
   width: 110px;
 
   &::before {
@@ -101,7 +101,7 @@ const CardsGroup = styled.ul`
     width: 100%;
     max-width: 400px;
     padding: 16px;
-    background-color: #ef5252;
+    background-color: #c72939;
 
     box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
 

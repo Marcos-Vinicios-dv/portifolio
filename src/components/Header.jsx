@@ -60,7 +60,7 @@ const Header = () => {
 export default Header;
 
 const HeaderContainer = styled.header`
-  background-color: #1f2234;
+  background-color: #12162e;
   color: #fbfbff;
   display: flex;
   align-items: center;

@@ -24,7 +24,7 @@ const SideBarContainer = styled.aside`
   width: 100%;
   height: 100%;
 
-  background-color: #1f2234;
+  background-color: #12162e;
 
   display: flex;
   flex-direction: column;
