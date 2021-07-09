@@ -25,7 +25,7 @@ export default createGlobalStyle`
   }
   
   body {
-    background-color: #171B32;
+    background-color: #23263a;
 
      ::-webkit-scrollbar-track
     {
@@ -37,14 +37,14 @@ export default createGlobalStyle`
     ::-webkit-scrollbar
     {
       width: 8px;
-      background-color: #171B32;
+      background-color: #1f2235;
     }
 
     ::-webkit-scrollbar-thumb
     {
       border-radius: 5px;
       box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-      background-color: #c72939;
+      background-color: #ec2236;
     }   
   }
 

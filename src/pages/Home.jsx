@@ -42,9 +42,11 @@ const Home = () => {
             buscando minha primeira oportunidade no mercado de tecnologia.{' '}
           </span>
         </div>
-        <a href="https://drive.google.com/file/d/1Pi8evBzW-eGZZPH28erqNaDJLx6J5aSU/view?usp=sharing">
-          <DownloadButton>Download CV</DownloadButton>
-        </a>{' '}
+        <span>
+          <a href="https://drive.google.com/file/d/1Pi8evBzW-eGZZPH28erqNaDJLx6J5aSU/view?usp=sharing">
+            <DownloadButton>Download CV</DownloadButton>
+          </a>{' '}
+        </span>
       </InfoContainer>
       <ImageContainer>
         <img src={ArtPort} alt="ArtPort" />
@@ -87,7 +89,7 @@ const InfoContainer = styled.div`
   flex-direction: column;
   justify-content: center;
 
-  > span {
+  span:first-child {
     a {
       & + a {
         margin-left: 16px;
@@ -126,7 +128,7 @@ const IconButton = styled.button`
   width: 40px;
   height: 40px;
 
-  border: 1px solid #c72939;
+  border: 1px solid #ec2236;
   border-radius: 50%;
 
   background-color: rgba(0, 0, 0, 0.35);
@@ -137,7 +139,7 @@ const IconButton = styled.button`
 
   &:hover {
     border: none;
-    background-color: #c72939;
+    background-color: #ec2236;
   }
 `;
 
@@ -145,7 +147,7 @@ const DownloadButton = styled.button`
   width: 180px;
   height: 50px;
 
-  background-color: #c72939;
+  background-color: #ec2236;
 
   border: none;
   border-radius: 5px;
@@ -159,7 +161,7 @@ const DownloadButton = styled.button`
 
   &:hover {
     box-shadow: none;
-    background-color: ${lighten(0.05, `#c72939`)};
+    background-color: ${lighten(0.05, `#ec2236`)};
   }
 
   @media (max-width: 768px) {

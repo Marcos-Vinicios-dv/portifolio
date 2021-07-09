@@ -45,7 +45,7 @@ const Sobre = () => {
 export default Sobre;
 
 const SobreContainer = styled.div`
-  background-color: #12162e;
+  background-color: #1f2235;
   height: 90vh;
   width: 100%;
   display: flex;
@@ -79,7 +79,7 @@ const ImageContainer = styled.div`
     height: 460px;
     width: 360px;
     min-width: 280px;
-    border: 8px solid #c72939;
+    border: 8px solid #ec2236;
     box-shadow: -10px 10px 12px rgba(0, 0, 0, 0.2);
 
     display: flex;
@@ -106,7 +106,7 @@ const ImageContainer = styled.div`
     > div {
       width: 300px;
       height: 400px;
-      border: 6px solid #c72939;
+      border: 6px solid #ec2236;
       div {
         top: -24px;
         right: -24px;
@@ -117,7 +117,7 @@ const ImageContainer = styled.div`
     > div {
       width: 280px;
       height: 350px;
-      border: 4px solid #c72939;
+      border: 4px solid #ec2236;
       div {
         top: -16px;
         right: -16px;
@@ -136,7 +136,7 @@ const InfoContainer = styled.div`
 
   span {
     margin: 32px 0 32px 100px;
-    border-bottom: 1px solid #c72939;
+    border-bottom: 1px solid #ec2236;
     width: 200px;
     &::before {
       content: 'Sobre mim';

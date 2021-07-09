@@ -22,7 +22,7 @@ const CardSkillContainer = styled.div`
 const Card = styled.div`
   width: 100%;
   min-height: 200px;
-  background-color: #1c2037;
+  background-color: #24283d;
   border-radius: 10px;
   box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
 
