@@ -13,7 +13,7 @@ const Header = () => {
     isOpenMenu && handleMenuOpenClose();
     setTimeout(() => {
       setPage(currentTarget.innerText);
-    }, 1000);
+    }, 2000);
   }
 
   function handleMenuOpenClose() {
@@ -90,7 +90,10 @@ const Nav = styled.div`
 const Logo = styled.div`
   font-weight: 700;
   flex: 1;
-  cursor: pointer;
+
+  a {
+    cursor: pointer;
+  }
 `;
 
 const HamburgerMenu = styled.div`
