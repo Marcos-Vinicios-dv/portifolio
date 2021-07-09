@@ -1,10 +1,12 @@
 import styled from 'styled-components';
 
-import LinkedIn from '../assets/images/roundLinkedIn.svg';
-import Github from '../assets/images/roundGithub.svg';
-import Email from '../assets/images/roundEmail.svg';
-import Maps from '../assets/images/Maps.svg';
-import Phone from '../assets/images/Phone.svg';
+import {
+  roundLinkedIn,
+  roundGithub,
+  roundEmail,
+  Maps,
+  Phone,
+} from '../assets/index';
 
 const Footer = () => {
   return (
@@ -13,7 +15,7 @@ const Footer = () => {
       <MainContainer>
         <RedesSociais>
           <span>
-            <img src={LinkedIn} alt="" />
+            <img src={roundLinkedIn} alt="" />
             <a
               href="https://www.linkedin.com/in/marcos-vinicios-dv/"
               target="_black"
@@ -22,13 +24,13 @@ const Footer = () => {
             </a>
           </span>
           <span>
-            <img src={Github} alt="" />
+            <img src={roundGithub} alt="" />
             <a href="https://github.com/Marcos-Vinicios-dv" target="_black">
               github.com/Marcos-Vinicios-dv
             </a>
           </span>
           <span>
-            <img src={Email} alt="" />
+            <img src={roundEmail} alt="" />
             <a href="mailto:marcosviniciosdev13@gmail.com" target="_black">
               marcosviniciosdev13@gmail.com
             </a>

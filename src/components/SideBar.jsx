@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import Close from '../assets/images/Close.svg';
+import { Close } from '../assets/index';
 
 const SideBar = ({ isOpen = false, closeMenu = null, children: NavLinks }) => {
   return (

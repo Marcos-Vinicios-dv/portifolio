@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
-import Home from '../pages/Home';
-import Skills from '../pages/Skills';
-import About from '../pages/About';
-import Projects from '../pages/Projects';
+import { Home } from '../pages/Home/Home';
+import { Skills } from '../pages/Skills/Skills';
+import { Sobre as About } from '../pages/About/About';
+import { Projects } from '../pages/Projects/Projects';
 
 const MainContainer = styled.main`
   width: 100%;
