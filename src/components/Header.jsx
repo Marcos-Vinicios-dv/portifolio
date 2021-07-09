@@ -26,8 +26,8 @@ const Header = () => {
       window.scrollY < 250 && setPage('Home');
       window.scrollY > 250 && window.scrollY <= 850 && setPage('Sobre mim');
       window.scrollY > 850 && window.scrollY <= 1550 && setPage('Skills');
-      window.scrollY > 1550 && window.scrollY <= 2050 && setPage('Projetos');
-      window.scrollY > 2050 && setPage('Contato');
+      window.scrollY > 1550 && window.scrollY <= 2000 && setPage('Projetos');
+      window.scrollY > 2000 && setPage('Contato');
     });
   }, []);
 

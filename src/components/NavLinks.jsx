@@ -36,8 +36,8 @@ const NavLinks = ({ page = 'Home', handleOnClickPage = null }) => {
             page={page === 'Skills' ? 1 : 0}
             to="skills"
             smooth={true}
+            offset={-270}
             duration={50}
-            offset={-200}
             isDynamic={true}
             onClick={handleOnClickPage}
           >
@@ -106,7 +106,7 @@ const Navbar = styled.nav`
 `;
 
 const NavLink = styled(Link)`
-  ${props =>
+  ${(props) =>
     props.page &&
     css`
       border-bottom: 2px solid #c72939;
