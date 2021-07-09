@@ -92,7 +92,7 @@ const ImageContainer = styled.div`
       position: relative;
       top: -32px;
       right: -32px;
-      background-color: #181c33;
+      background-color: #24283d;
       border-radius: 3px;
       padding: 8px;
       img {
