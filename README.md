@@ -13,7 +13,7 @@
 <br>
 
 <b>Bibliotecas</b>
-- <a href="https://michalsnik.github.io/aos/" target="_blank">AOS</a> (animações de itens);
+- <a href="https://michalsnik.github.io/aos/" >AOS</a> (animações de itens);
 - <a href="https://polished.js.org/" target="_blank">polished</a> (efeitos em cores);
 - <a href="https://styled-components.com/" target="_blank">styled-components</a> (estilização);
 - <a href="https://github.com/fisshy/react-scroll" target="_blank">react-scroll</a> (animação de scroll);
