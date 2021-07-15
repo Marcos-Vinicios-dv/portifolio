@@ -2,7 +2,7 @@
 
 <p>Esse projeto se trata de uma página pessoal onde o dono da página expõe algumas informações sobre si e alguns de seus trabalhos mais recentes ou relevantes</p>
 
-### Segue algumas imagens da aplicação:
+### Imagen da aplicação:
 <img width="100%" src="https://ik.imagekit.io/6s2mndhy9tk/Captura_de_tela_2021-07-15_163608_1-zD6AnTf.png" alt="Página Home"></img>
 
 ### Tecnologias e bibliotecas utilizadas:
