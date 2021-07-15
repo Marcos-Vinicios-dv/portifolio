@@ -3,8 +3,8 @@
 <p>Esse projeto se trata de uma página pessoal onde o dono da página expõe algumas informações sobre si e alguns de seus trabalhos mais recentes ou relevantes</p>
 
 ### Segue algumas imagens da aplicação:
-<img  href="https://ik.imagekit.io/6s2mndhy9tk/Captura_de_tela_2021-07-15_163608_1-zD6AnTf.png" alt="Página Home"></img>
-<img  href="https://ik.imagekit.io/6s2mndhy9tk/Captura_de_tela_2021-07-15_163631_4v9AXk2TOL.png" alt="Página Sobre"></img>
+<img width="100%" src="https://ik.imagekit.io/6s2mndhy9tk/Captura_de_tela_2021-07-15_163608_1-zD6AnTf.png" alt="Página Home"></img>
+<img width="100%" src="https://ik.imagekit.io/6s2mndhy9tk/Captura_de_tela_2021-07-15_163631_4v9AXk2TOL.png" alt="Página Sobre"></img>
 
 ### Tecnologias e bibliotecas utilizadas:
 
