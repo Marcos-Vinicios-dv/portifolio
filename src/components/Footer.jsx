@@ -26,7 +26,7 @@ const Footer = () => {
           <span>
             <img src={roundGithub} alt="" />
             <a href="https://github.com/marcos-vinicios-dv" target="_black">
-              github.com/Marcos-Vinicios-dv
+              github.com/marcos-vinicios-dv
             </a>
           </span>
           <span>
