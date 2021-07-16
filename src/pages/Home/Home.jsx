@@ -26,7 +26,7 @@ export const Home = () => {
               <img src={linkedIn} alt="LinkedIn" />
             </IconButton>
           </a>
-          <a href="https://github.com/Marcos-Vinicios-dv" target="_black">
+          <a href="https://github.com/marcos-vinicios-dv" target="_black">
             <IconButton>
               <img src={gitHub} alt="GitHub" />
             </IconButton>
@@ -45,7 +45,7 @@ export const Home = () => {
           </span>
         </div>
         <span>
-          <a href="https://drive.google.com/file/d/1Pi8evBzW-eGZZPH28erqNaDJLx6J5aSU/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1SRc9egN3uvOOPLU4ypdpmk75WJ0ESkaA/view?usp=sharing">
             <DownloadButton>Download CV</DownloadButton>
           </a>{' '}
         </span>

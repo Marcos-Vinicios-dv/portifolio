@@ -1,7 +1,6 @@
 import CaseMaker from './images/CaseMaker.png';
 import ReactExpenses from './images/ReactExpenses.png';
 import ReactElections from './images/ReactElections.png';
-import ReactInvestments from './images/ReactInvestments.png';
 import MainCases from './images/MainCases.png';
 import FlashCards from './images/Flash-Cards.png';
 import Foto from './images/Marcos.jpg';
@@ -21,7 +20,6 @@ export {
   CaseMaker,
   ReactExpenses,
   ReactElections,
-  ReactInvestments,
   MainCases,
   FlashCards,
   linkedIn,
