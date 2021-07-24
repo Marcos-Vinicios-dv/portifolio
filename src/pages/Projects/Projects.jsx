@@ -1,7 +1,6 @@
 import CardProject from '../../components/CardProject';
 
 import {
-  ReactExpenses,
   ReactElections,
   FlashCards,
   CaseMaker,
