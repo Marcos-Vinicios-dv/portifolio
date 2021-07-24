@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { lighten } from 'polished';
 
 export const HomeContainer = styled.div`
   height: 90vh;
@@ -105,7 +104,7 @@ export const DownloadButton = styled.button`
 
   &:hover {
     box-shadow: none;
-    background-color: ${lighten(0.05, `#ec2236`)};
+    filter: brightness(0.8);
   }
 
   @media (max-width: 768px) {
