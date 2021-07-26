@@ -45,7 +45,7 @@ export const Home = () => {
           </span>
         </div>
         <span>
-          <a href="https://drive.google.com/file/d/1SRc9egN3uvOOPLU4ypdpmk75WJ0ESkaA/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1yHCAfyGXUgqJvp-lB8Qp_Wy5l_kmAnpH/view?usp=sharing">
             <DownloadButton>Download CV</DownloadButton>
           </a>{' '}
         </span>
