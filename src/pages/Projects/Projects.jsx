@@ -1,11 +1,6 @@
 import CardProject from '../../components/CardProject';
 
-import {
-  ReactElections,
-  FlashCards,
-  CaseMaker,
-  MainCases,
-} from '../../assets/index';
+import { FlashCards, CaseMaker, MainCases } from '../../assets/index';
 
 import { ProjectsContainer, Title, CardsGroup } from './style';
 
@@ -37,13 +32,6 @@ export const Projects = () => {
         >
           Projeto desenvolvido com React, TypesScript, styled-components,
           axios...
-        </CardProject>
-        <CardProject
-          title="React - Elections"
-          src={ReactElections}
-          link="https://github.com/marcos-vinicios-dv/React-Elections"
-        >
-          Projeto desenvolvido com React, Javascript e TailWind CSS.
         </CardProject>
         <CardProject
           title="Flash-Cards"
