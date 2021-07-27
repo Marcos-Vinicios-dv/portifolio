@@ -10,7 +10,7 @@ export const Projects = () => {
       <Title />
       <CardsGroup>
         <CardProject
-          title="ig.news"
+          title="spacetraveling"
           src="https://camo.githubusercontent.com/d40c03f6ee9ed415afc7ea18ab9c93bda72b74f3fea194f56fbcf5add8aaab20/68747470733a2f2f696b2e696d6167656b69742e696f2f77676c757178767469616c2f436170747572615f64655f74656c615f64655f323032312d30372d32375f31322d33372d32365f6b71546a36674d542d2d2e706e673f7570646174656441743d31363237343030363637333031"
           link="https://github.com/marcos-vinicios-dv/spacetraveling"
         >
