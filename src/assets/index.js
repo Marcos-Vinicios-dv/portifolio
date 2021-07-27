@@ -1,5 +1,4 @@
 import CaseMaker from './images/CaseMaker.png';
-import ReactElections from './images/ReactElections.png';
 import MainCases from './images/MainCases.png';
 import FlashCards from './images/Flash-Cards.png';
 import Foto from './images/Marcos.jpg';
@@ -17,7 +16,6 @@ import Close from './SVG/Close.svg';
 
 export {
   CaseMaker,
-  ReactElections,
   MainCases,
   FlashCards,
   linkedIn,
