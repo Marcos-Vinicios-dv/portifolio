@@ -27,7 +27,7 @@ export const Projects = () => {
         </CardProject>
         <CardProject
           title="dt money"
-          src="https://camo.githubusercontent.com/6ebc30f00594cd6f3a6df5f880e1c65d919c9aebf68db3236c3749d3f8e6b1db/68747470733a2f2f6d656469612d657870332e6c6963646e2e636f6d2f646d732f696d6167652f4335363232415146567a5978563559486975672f6665656473686172652d736872696e6b5f323034385f313533362f302f313632363231323337333232393f653d3136323933333132303026763d6265746126743d32574b4e5a34576f6e4c3177506b6e56346777376a734f58434561705763524376614e484772764a443363"
+          src="https://ik.imagekit.io/wgluqxvtial/Captura_de_tela_de_2021-08-24_10-10-06_gEU3NcItrK.png?updatedAt=1629810687270"
           link="https://github.com/marcos-vinicios-dv/dtmoney"
         >
           Projeto desenvolvido com React, TypesScript, styled-components,
