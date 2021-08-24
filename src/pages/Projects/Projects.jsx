@@ -27,7 +27,7 @@ export const Projects = () => {
         </CardProject>
         <CardProject
           title="dt money"
-          src="https://ik.imagekit.io/wgluqxvtial/Captura_de_tela_de_2021-08-24_10-10-06_gEU3NcItrK.png?updatedAt=1629810687270"
+          src="https://ik.imagekit.io/wgluqxvtial/Captura_de_tela_de_2021-08-24_10-15-10_L0sTNa5Mu.png?updatedAt=1629810969335"
           link="https://github.com/marcos-vinicios-dv/dtmoney"
         >
           Projeto desenvolvido com React, TypesScript, styled-components,
