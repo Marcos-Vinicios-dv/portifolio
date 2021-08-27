@@ -11,10 +11,11 @@ export const Projects = () => {
       <CardsGroup>
         <CardProject
           title="Maniplay"
-          src="https://www.imagemhost.com.br/images/2021/08/23/Capa.png"
+          src="https://ik.imagekit.io/wgluqxvtial/Captura_de_tela_de_2021-08-22_23-04-27_VwThwjIyH.png?updatedAt=1629684293631"
           link="https://github.com/marcos-vinicios-dv/maniplay"
         >
-          Projeto desenvolvido com React, Typescript, styled-components, axios...
+          Projeto desenvolvido com React, Typescript, styled-components,
+          axios...
         </CardProject>
         <CardProject
           title="spacetraveling"
