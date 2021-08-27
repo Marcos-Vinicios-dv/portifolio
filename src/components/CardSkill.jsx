@@ -24,7 +24,7 @@ const Card = styled.div`
   min-height: 200px;
   background-color: #24283d;
   border-radius: 10px;
-  box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.1);
 
   display: flex;
   flex-direction: column;

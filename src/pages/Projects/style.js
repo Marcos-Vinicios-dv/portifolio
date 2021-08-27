@@ -51,6 +51,7 @@ export const CardsGroup = styled.ul`
     }
     img {
       width: 100%;
+      max-height: 124px;
     }
     a {
       width: 100%;

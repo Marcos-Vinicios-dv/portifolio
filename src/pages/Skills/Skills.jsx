@@ -11,13 +11,13 @@ export const Skills = () => {
         <CardSkill title="Linguagens">
           <SkillBar
             language="JS"
-            percent={65}
+            percent={75}
             primaryColor="#EFDF52"
             secondaryColor="#A79C7C"
           />
           <SkillBar
             language="TS"
-            percent={30}
+            percent={40}
             primaryColor="#9752EF"
             secondaryColor="#75699B"
           />
@@ -31,13 +31,13 @@ export const Skills = () => {
         <CardSkill title="Frameworks">
           <SkillBar
             language="React"
-            percent={45}
+            percent={50}
             primaryColor="#52A4EF"
             secondaryColor="#6B879F"
           />
           <SkillBar
             language="R.Native"
-            percent={5}
+            percent={10}
             primaryColor="#05B6F6"
             secondaryColor="#588AA0"
           />
