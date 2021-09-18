@@ -10,8 +10,16 @@ export const Projects = () => {
       <Title />
       <CardsGroup>
         <CardProject
+          title="Case Maker"
+          src="https://ik.imagekit.io/wgluqxvtial/CaseMaker_1__5a5Om-UHl1gz.png?updatedAt=1631916786820"
+          link="https://github.com/marcos-vinicios-dv/case-maker"
+        >
+          Projeto desenvolvido com React, Typescript, Redux, Redux Saga,
+          Router-dom...
+        </CardProject>
+        <CardProject
           title="Maniplay"
-          src="https://ik.imagekit.io/wgluqxvtial/Captura_de_tela_de_2021-08-22_23-04-27_VwThwjIyH.png?updatedAt=1629684293631"
+          src="https://ik.imagekit.io/wgluqxvtial/ManiPlay_sBNlG_flT.png?updatedAt=1631916641662"
           link="https://github.com/marcos-vinicios-dv/maniplay"
         >
           Projeto desenvolvido com React, Typescript, styled-components,
@@ -40,14 +48,6 @@ export const Projects = () => {
         >
           Projeto desenvolvido com React, TypesScript, styled-components,
           axios...
-        </CardProject>
-        <CardProject
-          title="Case - Maker"
-          src={CaseMaker}
-          link="https://github.com/marcos-vinicios-dv/case-maker"
-        >
-          Projeto desenvolvido com React, Javascript, Redux, Redux Saga,
-          Router-dom...
         </CardProject>
         <CardProject
           title="MainCases"

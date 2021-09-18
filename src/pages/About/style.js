@@ -35,7 +35,7 @@ export const ImageContainer = styled.div`
     height: 460px;
     width: 360px;
     min-width: 280px;
-    border: 8px solid #ec2236;
+    border: 8px solid #f5163f;
     box-shadow: -10px 10px 12px rgba(0, 0, 0, 0.2);
 
     display: flex;
@@ -62,7 +62,7 @@ export const ImageContainer = styled.div`
     > div {
       width: 300px;
       height: 400px;
-      border: 6px solid #ec2236;
+      border: 6px solid #f5163f;
       div {
         top: -24px;
         right: -24px;
@@ -73,7 +73,7 @@ export const ImageContainer = styled.div`
     > div {
       width: 280px;
       height: 350px;
-      border: 4px solid #ec2236;
+      border: 4px solid #f5163f;
       div {
         top: -16px;
         right: -16px;
@@ -92,7 +92,7 @@ export const InfoContainer = styled.div`
 
   span {
     margin: 32px 0 32px 100px;
-    border-bottom: 1px solid #ec2236;
+    border-bottom: 1px solid #f5163f;
     width: 200px;
     &::before {
       content: 'Sobre mim';

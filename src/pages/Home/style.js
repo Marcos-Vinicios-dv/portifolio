@@ -71,7 +71,7 @@ export const IconButton = styled.button`
   width: 40px;
   height: 40px;
 
-  border: 1px solid #ec2236;
+  border: 1px solid #f5163f;
   border-radius: 50%;
 
   background-color: rgba(0, 0, 0, 0.35);
@@ -82,7 +82,7 @@ export const IconButton = styled.button`
 
   &:hover {
     border: none;
-    background-color: #ec2236;
+    background-color: #f5163f;
   }
 `;
 
@@ -90,7 +90,7 @@ export const DownloadButton = styled.button`
   width: 180px;
   height: 50px;
 
-  background-color: #ec2236;
+  background-color: #f5163f;
 
   border: none;
   border-radius: 5px;

@@ -67,7 +67,7 @@ const FooterContainer = styled.div`
   flex-direction: column;
   align-items: center;
 
-  background-color: #ec2236;
+  background-color: #f5163f;
 
   h1 {
     font-size: 3.5rem;

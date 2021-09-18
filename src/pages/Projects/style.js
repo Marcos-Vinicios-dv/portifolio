@@ -13,7 +13,7 @@ export const ProjectsContainer = styled.div`
 
 export const Title = styled.h1`
   margin: 56px 0 40px 115px;
-  border-bottom: 1px solid #ec2236;
+  border-bottom: 1px solid #f5163f;
   width: 110px;
 
   &::before {
@@ -31,27 +31,28 @@ export const CardsGroup = styled.ul`
   width: 90%;
   max-width: 1370px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 250px));
   gap: 20px;
 
+  place-content: center;
+  place-items: center;
   li {
-    justify-self: center;
     width: 100%;
     max-width: 400px;
     padding: 16px;
-    background-color: #ec2236;
+    background-color: #f5163f;
 
     box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
 
     & + li {
       box-shadow: none;
-      background: none;
-      border: 1px solid rgba(209, 209, 209, 0.7);
+      background: #23263a;
+      /* border: 2px solid #24283d; */
       border-radius: 5px;
     }
     img {
-      width: 100%;
-      max-height: 124px;
+      max-width: 100%;
+      max-height: auto;
     }
     a {
       width: 100%;

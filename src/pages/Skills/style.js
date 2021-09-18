@@ -24,7 +24,7 @@ export const SkillsContainer = styled.div`
 export const Title = styled.span`
   margin-bottom: 40px;
   margin-left: 70px;
-  border-bottom: 1px solid #ec2236;
+  border-bottom: 1px solid #f5163f;
   width: 70px;
 
   &::before {

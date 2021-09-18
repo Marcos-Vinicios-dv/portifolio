@@ -23,7 +23,7 @@ export const Skills = () => {
           />
           <SkillBar
             language="JAVA"
-            percent={30}
+            percent={35}
             primaryColor="#EF5252"
             secondaryColor="#916972"
           />
@@ -37,7 +37,7 @@ export const Skills = () => {
           />
           <SkillBar
             language="R.Native"
-            percent={10}
+            percent={30}
             primaryColor="#05B6F6"
             secondaryColor="#588AA0"
           />

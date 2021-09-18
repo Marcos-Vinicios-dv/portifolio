@@ -36,7 +36,7 @@ export default createGlobalStyle`
 
     ::-webkit-scrollbar
     {
-      width: 8px;
+      width: 5px;
       background-color: #1f2235;
     }
 
@@ -44,7 +44,7 @@ export default createGlobalStyle`
     {
       border-radius: 5px;
       box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-      background-color: #ec2236;
+      background-color: #f5163f;
     }   
   }
 

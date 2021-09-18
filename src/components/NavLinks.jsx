@@ -109,6 +109,6 @@ const NavLink = styled(Link)`
   ${(props) =>
     props.page &&
     css`
-      border-bottom: 2px solid #c72939;
+      border-bottom: 2px solid #f5163f;
     `}
 `;

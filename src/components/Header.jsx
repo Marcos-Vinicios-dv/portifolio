@@ -98,7 +98,7 @@ const Logo = styled.div`
 
 const HamburgerMenu = styled.div`
   @media (max-width: 600px) {
-    width: 40px;
+    width: 30px;
     height: 30px;
 
     div {

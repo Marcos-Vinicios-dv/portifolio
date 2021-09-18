@@ -40,8 +40,8 @@ export const Home = () => {
         <div>
           <h1>Olá, eu sou Marcos Vinicios!</h1>
           <span>
-            Me chamo Marcos Vinicios Teixeira e sou desenvolvedor Front-end,
-            buscando minha primeira oportunidade no mercado de tecnologia.{' '}
+            Sou desenvolvedor Front-end e busco a minha primeira oportunidade no
+            mercado de tecnologia.{' '}
           </span>
         </div>
         <span>
