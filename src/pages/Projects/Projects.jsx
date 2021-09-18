@@ -1,6 +1,6 @@
 import CardProject from '../../components/CardProject';
 
-import { CaseMaker, MainCases } from '../../assets/index';
+import { MainCases } from '../../assets/index';
 
 import { ProjectsContainer, Title, CardsGroup } from './style';
 

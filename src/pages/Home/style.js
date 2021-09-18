@@ -51,7 +51,15 @@ export const InfoContainer = styled.div`
     }
 
     span {
+      display: block;
+      width: 80%;
       color: rgba(209, 209, 209, 0.7);
+    }
+  }
+
+  @media (max-width: 768px) {
+    div span {
+      width: auto;
     }
   }
 `;
